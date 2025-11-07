@@ -2,7 +2,7 @@
 import pandas as pd #pandas = panel data
 # In[2]:
 
-raw_csv_data = pd.read_csv("C:/Users///Desktop/Data Science Bootcamp/Absenteeism_data.csv")
+raw_csv_data = pd.read_csv("C:/Users///Desktop//Absenteeism_data.csv")
 
 # In[3]:
 raw_csv_data
